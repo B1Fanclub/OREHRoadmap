@@ -8,22 +8,22 @@ Progress roadmap for OREH
 * ImGui = Has an ImGui internal ui   
 
 ## Roadmap
-2007E - N   
-2007M - N   
-2007L - Y [Elevated: Y, ImGui: N]   
-2008E - N   
-2008M - N   
-2008L - Y [Elevated: Y, ImGui: N]   
-2009E - N   
-2009M - N   
-2009L - N   
-2010E - N   
-2010M - N   
-2010L - N   
-2011E - N   
-2011M - N   
-2011L - N   
-2012E - N   
+2007E - N [Alternatives: Eggsploit]
+2007M - N [Alternatives: Eggsploit]  
+2007L - Y [Elevated: Y, ImGui: N] [Alternatives: Eggsploit]  
+2008E - N [Alternatives: Eggsploit]  
+2008M - N [Alternatives: Eggsploit]  
+2008L - Y [Elevated: Y, ImGui: N] [Alternatives: Eggsploit]  
+2009E - N [Alternatives: Eggsploit]  
+2009M - N [Alternatives: Eggsploit]  
+2009L - N [Alternatives: Eggsploit]  
+2010E - N [Alternatives: Eggsploit]  
+2010M - N [Alternatives: Eggsploit]  
+2010L - N [Alternatives: Eggsploit]  
+2011E - N [Alternatives: Eggsploit]  
+2011M - N [Alternatives: Eggsploit]  
+2011L - N [Alternatives: Eggsploit]  
+2012E - N [Alternatives: Eggsploit]  
 2012M - Y [Elevated: N, ImGui: N]   
 2012L - Y [Elevated: N, ImGui: N]   
 2013E - N   
