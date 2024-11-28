@@ -5,7 +5,8 @@ Progress roadmap for OREH
 * N = NO
 * Y = YES
 * Elevated = Elevated security context
-* ImGui = Has an ImGui internal ui   
+* ImGui = Has an ImGui internal ui
+* Alternatives- Alternative exploits that work on said version
 
 ## Roadmap
 2007E - N [Alternatives: Eggsploit]   
